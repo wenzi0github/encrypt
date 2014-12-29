@@ -1,5 +1,3 @@
-```php
-<?php
 $content = "大家好，我是中国人，你是谁";
  
 /**
@@ -37,4 +35,3 @@ function decode($string = '', $skey = 'wenzi') {
 }
  
 exit();
-```
